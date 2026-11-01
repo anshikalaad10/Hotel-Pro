@@ -1,4 +1,4 @@
-# HotelPro - Complete Hotel Booking & Management Solution (RoomsForUse)
+# Hotel- Management - Complete Hotel Booking & Management Solution (RoomsForUse)
 
 A modern, full-stack **Hotel Management & Room Reservation System** built with the **MERN Stack** (MongoDB/Embedded Storage, Express.js, React 18, Node.js). 
 s
